@@ -2,10 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba628f1e-b742-4b93-83d3-4aa0f4c5e2ca" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/with-typescript-eslint-jest-app/src/test/__mocks__/fileMock.js" beforeDir="false" afterPath="$PROJECT_DIR$/with-typescript-eslint-jest-app/test/__mocks__/fileMock.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/with-typescript-eslint-jest-app/src/test/pages/__snapshots__/index.test.tsx.snap" beforeDir="false" afterPath="$PROJECT_DIR$/with-typescript-eslint-jest-app/test/pages/__snapshots__/index.test.tsx.snap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/with-typescript-eslint-jest-app/src/test/pages/index.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/with-typescript-eslint-jest-app/test/pages/index.test.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/with-typescript-eslint-jest-app/src/test/testUtils.ts" beforeDir="false" afterPath="$PROJECT_DIR$/with-typescript-eslint-jest-app/test/testUtils.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/with-typescript-eslint-jest-app/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/with-typescript-eslint-jest-app/.eslintignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/with-typescript-eslint-jest-app/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/with-typescript-eslint-jest-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/with-typescript-eslint-jest-app/.prettierignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/with-typescript-eslint-jest-app/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/with-typescript-eslint-jest-app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/with-typescript-eslint-jest-app/__test__/__mocks__/fileMock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/with-typescript-eslint-jest-app/__test__/pages/__snapshots__/index.test.tsx.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/with-typescript-eslint-jest-app/__test__/pages/index.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/with-typescript-eslint-jest-app/__test__/testUtils.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/with-typescript-eslint-jest-app/jest.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/with-typescript-eslint-jest-app/next-env.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/with-typescript-eslint-jest-app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/with-typescript-eslint-jest-app/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/with-typescript-eslint-jest-app/public/vercel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/with-typescript-eslint-jest-app/src/pages/api/hello.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/with-typescript-eslint-jest-app/src/pages/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/with-typescript-eslint-jest-app/src/utils/reportWebVitals.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/with-typescript-eslint-jest-app/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/with-typescript-eslint-jest-app/yarn.lock" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1609962835689</updated>
       <workItem from="1609962836900" duration="1300000" />
-      <workItem from="1609964162214" duration="3406000" />
+      <workItem from="1609964162214" duration="3758000" />
     </task>
     <task id="LOCAL-00001" summary="initial setup">
       <created>1609967398514</created>
@@ -72,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609967494688</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="set up testing">
+      <created>1609967815475</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1609967815475</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,6 +118,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial setup" />
     <MESSAGE value="update snapshot tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="update snapshot tests" />
+    <MESSAGE value="set up testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="set up testing" />
   </component>
 </project>
