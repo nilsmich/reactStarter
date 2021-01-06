@@ -1,0 +1,13 @@
+{
+  "extends": "../tsconfig.common.json",
+  "exclude": ["lib/@tslint", "packages/e2e"],
+  "include": ["**/*"],
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@domainname/*": ["./subdomains/@domainname/*"],
+      "@domainname": ["./subdomains/@domainname"]
+    }
+  }
+}
+

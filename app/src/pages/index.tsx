@@ -1,14 +1,7 @@
 import Head from 'next/head'
 import React from 'react'
-import reportWebVitals from '../utils/reportWebVitals'
 
 export const Home = (): JSX.Element => {
-  // If you want to start measuring performance in your app, pass a function
-  // to log results (for example: reportWebVitals(console.log))
-  // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-  // tslint:disable-next-line:no-console
-  reportWebVitals(console.log)
-
   return (
     <div className="container">
       <Head>
