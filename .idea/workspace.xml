@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba628f1e-b742-4b93-83d3-4aa0f4c5e2ca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/reactStarter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/with-typescript-eslint-jest-app/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/with-typescript-eslint-jest-app/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/with-typescript-eslint-jest-app/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/with-typescript-eslint-jest-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/with-typescript-eslint-jest-app/.prettierignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/with-typescript-eslint-jest-app/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/with-typescript-eslint-jest-app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/with-typescript-eslint-jest-app/jest.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/with-typescript-eslint-jest-app/next-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/with-typescript-eslint-jest-app/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/with-typescript-eslint-jest-app/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/with-typescript-eslint-jest-app/public/vercel.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/with-typescript-eslint-jest-app/src/pages/api/hello.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/with-typescript-eslint-jest-app/src/pages/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/with-typescript-eslint-jest-app/src/test/__mocks__/fileMock.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/with-typescript-eslint-jest-app/src/test/pages/__snapshots__/index.test.tsx.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/with-typescript-eslint-jest-app/src/test/pages/index.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/with-typescript-eslint-jest-app/src/test/testUtils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/with-typescript-eslint-jest-app/src/utils/reportWebVitals.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/with-typescript-eslint-jest-app/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/with-typescript-eslint-jest-app/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mi3y5xYQj05XQ3rzoW8odkfjIS" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/with-typescript-eslint-jest-app/src/utils" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Users\Nils\Documents\Git\reactStarter\create react\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Nils\Documents\Git\reactStarter\with-typescript-eslint-jest-app\src\utils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Nils\Documents\Git\reactStarter\with-typescript-eslint-jest-app" />
+      <recent name="C:\Users\Nils\Documents\Git\reactStarter\with-typescript-eslint-jest-app\src" />
+      <recent name="C:\Users\Nils\Documents\Git\reactStarter\create react" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba628f1e-b742-4b93-83d3-4aa0f4c5e2ca" name="Default Changelist" comment="" />
+      <created>1609962835689</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609962835689</updated>
+      <workItem from="1609962836900" duration="1300000" />
+      <workItem from="1609964162214" duration="2993000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial setup" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial setup" />
+  </component>
+</project>
