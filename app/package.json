@@ -26,6 +26,7 @@
     ]
   },
   "dependencies": {
+    "@mo/design-system-lib": "1.0.0",
     "next": "latest",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
@@ -54,6 +55,8 @@
     "jest": "^25.2.3",
     "jest-watch-typeahead": "^0.5.0",
     "lint-staged": "^10.0.10",
+    "next-compose-plugins": "^2.2.1",
+    "next-transpile-modules": "^6.0.0",
     "prettier": "^2.0.2",
     "typescript": "^3.8.3"
   }

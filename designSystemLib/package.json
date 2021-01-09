@@ -1,0 +1,9 @@
+{
+  "name": "@mo/design-system-lib",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "peerDependencies": {
+    "react": "*",
+    "typescript": "*"
+  }
+}

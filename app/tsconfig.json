@@ -5,8 +5,8 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "@domainname/*": ["./subdomains/@domainname/*"],
-      "@domainname": ["./subdomains/@domainname"]
+      "@domainname/*": ["./domains/@domainname/*"],
+      "@domainname": ["./domains/@domainname"]
     }
   }
 }
