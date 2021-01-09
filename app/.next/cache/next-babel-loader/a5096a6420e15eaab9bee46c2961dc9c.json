@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { Button } from './button/button';","map":{"version":3,"sources":["C:/Users/Nils/Documents/Git/reactStarter/node_modules/@mo/design-system-lib/src/index.ts"],"names":["Button"],"mappings":"AAAA,SAASA,MAAT,QAAuB,iBAAvB","sourcesContent":["export { Button } from './button/button';\r\n"]},"metadata":{},"sourceType":"module"}
